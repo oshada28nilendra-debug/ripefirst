@@ -1,0 +1,16 @@
+{
+  "image": "data/banana-grouped2/test/rotten/1037_00.jpg",
+  "stage": "rotten",
+  "probabilities": {
+    "fresh": 0.0031558320069252467,
+    "normal": 0.007810737250743034,
+    "rotten": 0.9890334307423317
+  },
+  "expected_stage": 1.9858775987354065,
+  "visible_deterioration_score": 99.29387993677032,
+  "confidence": 0.9890334307423317,
+  "normalized_entropy": 0.06096671281555125,
+  "uncertain": false,
+  "quality_flags": [],
+  "interpretation": "visible appearance only; not a safety or shelf-life estimate"
+}

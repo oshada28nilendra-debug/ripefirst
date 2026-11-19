@@ -1,0 +1,95 @@
+{
+  "objects": 3041,
+  "difference_hash_threshold": 2,
+  "resized_rgb_mse_threshold": 0.0025,
+  "cross_split_exact_byte_groups": 0,
+  "cross_split_decoded_pixel_groups": 0,
+  "test_crops_with_visual_similarity_candidate": 14,
+  "visual_similarity_candidates": [
+    {
+      "test": "test/normal/2023_00.jpg",
+      "reference": "train/normal/2018_00.jpg",
+      "hamming_distance": 0,
+      "resized_rgb_mse": 0.00038339997990988195
+    },
+    {
+      "test": "test/normal/2126_01.jpg",
+      "reference": "train/normal/2125_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.0009780143154785037
+    },
+    {
+      "test": "test/normal/2194_00.jpg",
+      "reference": "train/normal/2195_00.jpg",
+      "hamming_distance": 1,
+      "resized_rgb_mse": 0.0007928291452117264
+    },
+    {
+      "test": "test/normal/2199_00.jpg",
+      "reference": "train/normal/2206_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.002076929435133934
+    },
+    {
+      "test": "test/normal/2204_00.jpg",
+      "reference": "train/normal/2201_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.0014039073139429092
+    },
+    {
+      "test": "test/normal/2302_00.jpg",
+      "reference": "train/normal/2286_00.jpg",
+      "hamming_distance": 1,
+      "resized_rgb_mse": 0.0006567011587321758
+    },
+    {
+      "test": "test/normal/2399_00.jpg",
+      "reference": "train/normal/2355_00.jpg",
+      "hamming_distance": 1,
+      "resized_rgb_mse": 0.00038811322883702815
+    },
+    {
+      "test": "test/fresh/2707_00.jpg",
+      "reference": "train/fresh/2706_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.0005456861108541489
+    },
+    {
+      "test": "test/rotten/2798_01.jpg",
+      "reference": "train/rotten/2799_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.0016199788078665733
+    },
+    {
+      "test": "test/rotten/2952_00.jpg",
+      "reference": "validation/rotten/2950_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.002144573023542762
+    },
+    {
+      "test": "test/rotten/3052_01.jpg",
+      "reference": "train/rotten/3155_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.0022249880712479353
+    },
+    {
+      "test": "test/rotten/3053_01.jpg",
+      "reference": "train/rotten/3155_00.jpg",
+      "hamming_distance": 1,
+      "resized_rgb_mse": 0.0005438150838017464
+    },
+    {
+      "test": "test/rotten/3152_00.jpg",
+      "reference": "train/rotten/3154_00.jpg",
+      "hamming_distance": 2,
+      "resized_rgb_mse": 0.0005413133185356855
+    },
+    {
+      "test": "test/rotten/3153_00.jpg",
+      "reference": "train/rotten/3154_00.jpg",
+      "hamming_distance": 1,
+      "resized_rgb_mse": 0.00041355294524692
+    }
+  ],
+  "candidate_list_truncated": false
+}

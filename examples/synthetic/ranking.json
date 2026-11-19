@@ -1,0 +1,71 @@
+[
+  {
+    "image": "examples/synthetic/synthetic_rotten.png",
+    "stage": "fresh",
+    "probabilities": {
+      "fresh": 0.4890655772049543,
+      "normal": 0.13474591055092316,
+      "rotten": 0.3761885122441225
+    },
+    "expected_stage": 0.8871229350391681,
+    "visible_deterioration_score": 44.356146751958406,
+    "confidence": 0.4890655772049543,
+    "normalized_entropy": 0.8990201807192323,
+    "uncertain": true,
+    "quality_flags": [
+      "possibly_blurry"
+    ],
+    "interpretation": "visible appearance only; not a safety or shelf-life estimate",
+    "item_id": "demo-3",
+    "storage_days": 4.0,
+    "priority_score": 46.27415331059321,
+    "rank": 1,
+    "action": "review_image"
+  },
+  {
+    "image": "examples/synthetic/synthetic_fresh.png",
+    "stage": "fresh",
+    "probabilities": {
+      "fresh": 0.5272617170965318,
+      "normal": 0.28798547273724245,
+      "rotten": 0.1847528101662258
+    },
+    "expected_stage": 0.657491093069694,
+    "visible_deterioration_score": 32.8745546534847,
+    "confidence": 0.5272617170965318,
+    "normalized_entropy": 0.9174978074551051,
+    "uncertain": true,
+    "quality_flags": [
+      "possibly_blurry"
+    ],
+    "interpretation": "visible appearance only; not a safety or shelf-life estimate",
+    "item_id": "demo-1",
+    "storage_days": 0.0,
+    "priority_score": 27.943371455461996,
+    "rank": 2,
+    "action": "review_image"
+  },
+  {
+    "image": "examples/synthetic/synthetic_normal.png",
+    "stage": "fresh",
+    "probabilities": {
+      "fresh": 0.7437480589614737,
+      "normal": 0.13232377643741403,
+      "rotten": 0.12392816460111229
+    },
+    "expected_stage": 0.3801801056396386,
+    "visible_deterioration_score": 19.00900528198193,
+    "confidence": 0.7437480589614737,
+    "normalized_entropy": 0.6795688558521708,
+    "uncertain": true,
+    "quality_flags": [
+      "possibly_blurry"
+    ],
+    "interpretation": "visible appearance only; not a safety or shelf-life estimate",
+    "item_id": "demo-2",
+    "storage_days": 2.0,
+    "priority_score": 20.443368775398927,
+    "rank": 3,
+    "action": "review_image"
+  }
+]

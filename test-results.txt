@@ -1,0 +1,14 @@
+test_duplicate_observation_rejected (test_usefirst.UseFirstTests.test_duplicate_observation_rejected) ... ok
+test_features_are_finite_and_stable_length (test_usefirst.UseFirstTests.test_features_are_finite_and_stable_length) ... ok
+test_low_resolution_is_flagged (test_usefirst.UseFirstTests.test_low_resolution_is_flagged) ... ok
+test_manifest_rejects_source_image_leakage (test_usefirst.UseFirstTests.test_manifest_rejects_source_image_leakage) ... ok
+test_negative_storage_days_rejected (test_usefirst.UseFirstTests.test_negative_storage_days_rejected) ... ok
+test_observation_reports_score_change_per_day (test_usefirst.UseFirstTests.test_observation_reports_score_change_per_day) ... ok
+test_split_is_deterministic (test_usefirst.UseFirstTests.test_split_is_deterministic) ... ok
+test_storage_is_only_a_bounded_tiebreaker (test_usefirst.UseFirstTests.test_storage_is_only_a_bounded_tiebreaker) ... ok
+test_uncertain_items_are_sent_to_review (test_usefirst.UseFirstTests.test_uncertain_items_are_sent_to_review) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.009s
+
+OK

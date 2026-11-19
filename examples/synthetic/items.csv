@@ -1,0 +1,4 @@
+item_id,image,storage_days
+demo-1,synthetic_fresh.png,0
+demo-2,synthetic_normal.png,2
+demo-3,synthetic_rotten.png,4

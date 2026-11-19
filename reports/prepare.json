@@ -1,0 +1,18 @@
+{
+  "source": "../fruit-data",
+  "seed": 18,
+  "objects": 3041,
+  "source_images": 1806,
+  "visual_groups": 499,
+  "counts": {
+    "test/fresh_banana": 84,
+    "test/normal_banana": 211,
+    "test/rotten_banana": 60,
+    "train/fresh_banana": 582,
+    "train/normal_banana": 977,
+    "train/rotten_banana": 400,
+    "validation/fresh_banana": 238,
+    "validation/normal_banana": 168,
+    "validation/rotten_banana": 321
+  }
+}
